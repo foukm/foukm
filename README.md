@@ -27,15 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foukm&layout=compact&theme=radical" alt="Top Langs" width="80%" />
-</p>
-
-
----
-
 
 ## 😅 Disclaimer  
 
