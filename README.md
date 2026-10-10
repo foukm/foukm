@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maria!  
 ## 👩‍💻 About Me  
-💼 Junior Software Engineer @ [Epignosis](https://www.epignosishq.com)  
+💼 Junior Security Engineer @ [Epignosis](https://www.epignosishq.com)  
 💻 BSc in Computer Science, University of Crete (CSD)  
 🎓 MSc in Cybersecurity (ongoing), UniWΑ  
 
